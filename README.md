@@ -1,4 +1,4 @@
-## 🛒 SmartCart — Full-Stack Intelligent Shopping Cart System
+## SmartCart — Full-Stack Intelligent Shopping Cart System
 
 SmartCart is a full-stack e-commerce platform built entirely in Python: a 
 Flask REST API backed by SQLite, paired with a multi-page Streamlit web app. 
